@@ -1,4 +1,4 @@
-# Constrained Kaczmarz Projection on Intersection of Manifolds
+## Constrained Nonlinear Kaczmarz Projection on Intersection of Manifolds
 
 This repository will host the open-source code for our paper "Constrained Nonlinear Kaczmarz Projection on Intersections of Manifolds for Coordinated Multirobot Mobile Manipulation" 
 
