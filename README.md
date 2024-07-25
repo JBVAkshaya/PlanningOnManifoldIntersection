@@ -4,4 +4,4 @@ This repository will host the open-source code for our paper "Constrained Nonlin
 
 Please subscribe to #1 for updates on the code release.
 
-Please contact @JBVAkshaya with any questions or inquiries.
+Please contact [@JBVAkshaya](https://github.com/JBVAkshaya) with any questions or inquiries.
